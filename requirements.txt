@@ -1,0 +1,5 @@
+telethon==1.25.0
+pandas==2.1.1
+matplotlib==3.8.0
+seaborn==0.12.2
+reportlab==4.1.0
